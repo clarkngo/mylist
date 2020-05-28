@@ -1,6 +1,6 @@
 # mylist
-- Samurai X
-- Naruto
-- JoJo's Bizarre Adventure
-- Sakura Wars
-- Gundam UC
+- Deku
+- Batman
+- Lemillion
+- Flash
+- Iron Man
